@@ -1,4 +1,4 @@
-Hi. I am starting a new path with Flutter. At my age, it is a frustrating experience, but I will get there.
+Hi. I am starting a new path with Flutter.
 
 <!---
 Boucanier2024/Boucanier2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
